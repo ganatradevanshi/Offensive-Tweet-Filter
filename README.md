@@ -11,4 +11,4 @@ This project is aimed at converting offensive, sexist text into pleasant or funn
 
 - Through NLP and ML  offensive language is identified within a sentence or tweet.
 
-- Once identified, the language is replaced with antonyms or silly words
+- Once identified, the language is replaced with antonyms or silly words.
